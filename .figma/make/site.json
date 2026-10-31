@@ -1,0 +1,10 @@
+{
+  "description": "Control an ESP32-based rover for pothole detection with a responsive dashboard featuring live video, navigation controls, and system logs for efficient monitoring.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
